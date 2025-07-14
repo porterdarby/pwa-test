@@ -1,0 +1,14 @@
+{
+    "name": "PWA-Test",
+    "icons": [
+        {
+            "src": "icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start-url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
